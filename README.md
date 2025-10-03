@@ -13,7 +13,7 @@ This is a Tampermonkey userscript that displays **IMDb ⭐** and **Rotten Tomato
 3. Open Netflix and enjoy ratings inline!
 
 ## Screenshot
-![Preview](screenshot.png)
+![Preview](screenshot_2.jpg)
 
 ## Notes
 - Requires a free OMDb API key: [Get one here](https://www.omdbapi.com/apikey.aspx).
