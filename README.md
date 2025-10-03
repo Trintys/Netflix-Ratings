@@ -14,7 +14,7 @@ This is a Tampermonkey userscript that displays **IMDb ⭐** and **Rotten Tomato
 - These ratings are displayed in a small styled badge below the Netflix title controls.  
 - A `MutationObserver` is used so the script updates automatically when you open a new title or a preview.
 
-This way, the ratings always stay in sync with the content you’re watching.****
+This way, the ratings always stay in sync with the content you’re watching.
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
