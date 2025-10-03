@@ -18,7 +18,7 @@ This way, the ratings always stay in sync with the content you’re watching.
 
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
-2. [Click here to install the script](https://github.com/YOUR_USERNAME/netflix-imdb-rt-ratings/raw/main/netflix-imdb-rt-ratings.user.js).
+2. Use the script file from this repository, save it.
 3. Open Netflix and enjoy ratings inline!
 
 ## Screenshot
