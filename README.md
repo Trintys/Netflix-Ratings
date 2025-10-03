@@ -1,8 +1,6 @@
-# Netflix-Ratings
-
 # Netflix IMDb + RT Ratings (Stable)
 
-This is a Tampermonkey userscript that displays **IMDb** and **Rotten Tomatoes** ratings directly on Netflix movie and series pages.
+This is a Tampermonkey userscript that displays **IMDb ⭐** and **Rotten Tomatoes 🍅** ratings directly on Netflix movie and series pages.
 
 ## Features
 - Fetches ratings from the [OMDb API](https://omdbapi.com).
@@ -15,8 +13,10 @@ This is a Tampermonkey userscript that displays **IMDb** and **Rotten Tomatoes**
 3. Open Netflix and enjoy ratings inline!
 
 ## Screenshot
-![Preview](d.png)
+![Preview](screenshot.png)
 
 ## Notes
 - Requires a free OMDb API key: [Get one here](https://www.omdbapi.com/apikey.aspx).
 - Replace `API_KEY` in the script with your own.
+- IMDb ratings will appear as **⭐ IMDb: X.X**
+- Rotten Tomatoes ratings will appear as **🍅 RT: XX%**
